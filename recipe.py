@@ -15,7 +15,7 @@ model = genai.GenerativeModel('gemini-1.5-pro')
 
 cuisines = [
     "",
-    "Italian", "Mexican", "Chinese", "Indian", "Japanese", "Thai",
+    "Korean", "Italian", "Mexican", "Chinese", "Indian", "Japanese", "Thai",
     "French", "Mediterranean", "American", "Greek"
 ]
 
